@@ -1,1 +1,1 @@
-Worker: node Index.js
+Worker: node sophie.js
