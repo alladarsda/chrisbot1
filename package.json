@@ -1,0 +1,24 @@
+{
+  "name": "sophie-bot",
+  "version": "1.0.0",
+  "description": "General Purpose Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaylon Gowie",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.6.0",
+    "eslint": "^4.19.1",
+    "ffmpeg": "0.0.4",
+    "node-opus": "^0.3.2",
+    "uws": "^10.148.2",
+    "xml2js": "^0.4.19",
+    "youtube-playlist-info": "^1.1.2",
+    "ytdl-core": "^0.20.4",
+    "ytsearcher": "^1.2.2"
+  }
+}
